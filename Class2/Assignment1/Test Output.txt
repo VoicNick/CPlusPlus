@@ -1,0 +1,22 @@
+// Assignment 1 COMP 2618, Voicu Chirtes
+
+The Shape object count is: 0
+The Shape object count is: 2
+The Shape object count is: 2
+The Shape object count is: 4
+The Shape object count is: 2
+
+The radius of crclObj is: 3.0000
+
+The number of sides   is: 1
+
+The area   of crclObj is: 28.2743
+The radius of cyldObj is: 5.5000
+The height of cyldObj is: 2.5000
+
+The number of sides   is: 3
+
+The area   of cyldObj is: 276.4602
+The volume of cyldObj is: 237.5829
+
+Press any key to continue . . .

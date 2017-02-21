@@ -1,0 +1,330 @@
+// Test Output for Assignment 7 COMP 2617
+// Author: Voicu Chirtes
+// Output 1 Tortoise wins
+
+ON YOUR MARK, GET SET
+BANG               !!!!
+AND THEY'RE OFF    !!!!
+  OUCH!!!
+   H T
+ H    T
+ H     T
+ H      T
+          HT
+            T      H
+               T    H
+                  OUCH!!!
+                   OUCH!!!
+             T   H
+     H        T
+   H           T
+    H    T
+   T H
+      OUCH!!!
+       T       H
+ T H
+    T       H
+     T       H
+ H    T
+       T  H
+        H T
+      H      T
+               HT
+             H     T
+             OUCH!!!
+                T     H
+                 T    H
+                    T H
+                    H  T
+                  H     T
+                  T        H
+               H     T
+                H     T
+                H        T
+                H           T
+                      T  H
+                         T        H
+                            T     H
+                               T   H
+                                T   H
+                        H        T
+                         H          T
+                                  H  T
+                                   H  T
+                                    H    T
+                                     H      T
+                         H                     T
+                       H                          T
+                     H                               T
+                   H                           T
+                    H                             T
+                     H                               T
+         H                                            T
+          H                                            T
+          H                                               T
+           H                                               T
+ H                                                          T
+  H                                                            T
+ H                                                                T
+ H                                                                   T
+
+TORTOISE WINS!!! YAY!!!
+
+TIME ELAPSED = 63 seconds
+
+Press any key to continue . . .
+
+// Output 2 Tie round
+ON YOUR MARK, GET SET
+BANG               !!!!
+AND THEY'RE OFF    !!!!
+    T     H
+     T    H
+        OUCH!!!
+  T              H
+     OUCH!!!
+   H    T
+    H      T
+    H       T
+    H          T
+             H    T
+              H      T
+              H       T
+               H         T
+   H               T
+    H                 T
+             H           T
+              H           T
+  H                 T
+   H                 T
+    H                 T
+ H                       T
+ H                 T
+ H                    T
+  H                    T
+ H                      T
+ H                       T
+          H                 T
+        H                      T
+        H                       T
+      H                            T
+               H                    T
+               H                       T
+                H                         T
+              H                              T
+              H                               T
+               H                                 T
+             H                                      T
+              H                                        T
+               H                                          T
+                H                                            T
+              H                                               T
+  H                                                     T
+   H                                              T
+ H                                                 T
+ H                                                    T
+          H                                            T
+                   H                                      T
+                    H                               T
+                  H                                    T
+                           H                            T
+                            H                     T
+                             H                     T
+                              H                     T
+                            H                          T
+                                     H                    T
+                                   H                T
+                       H                               T
+                                H                         T
+                                         H                   T
+                                       H                        T
+                                                H                  T
+                                              H              T
+                                               H                T
+                                   H                      T
+                                            H              T
+                                            H        T
+                                          H             T
+                                           H               T
+                                            H               T
+                                                     H         T
+                                                     H            T
+                                                              H    T
+
+It's a tie.
+TIME ELAPSED = 73 seconds
+
+Press any key to continue . . .
+
+// Output 3 Hare wins
+ON YOUR MARK, GET SET
+BANG               !!!!
+AND THEY'RE OFF    !!!!
+  H T
+  H    T
+   H      T
+           TH
+ H            T
+  H              T
+ H                T
+          H T
+           H   T
+         OUCH!!!
+         H  T
+ H    T
+  H    T
+ T         H
+    T       H
+       T     H
+        T     H
+           T  H
+  H         T
+ H           T
+  H             T
+  H              T
+  H        T
+   H T
+    H   T
+ H         T
+  H           T
+   H    T
+  T H
+     T       H
+        T     H
+  T            H
+     T       H
+        T     H
+  T            H
+     T       H
+      T               H
+       T  H
+          OUCH!!!
+ H  T
+  H  T
+   H  T
+         T  H
+            T        H
+         H   T
+          H     T
+        H        T
+      H             T
+    H                T
+             H T
+             H    T
+            T         H
+          H  T
+           H  T
+           H     T
+ H                  T
+ H                     T
+          H             T
+        H                  T
+      H                       T
+       H                T
+                H T
+            T    H
+             T    H
+                T          H
+                   T                H
+                      T           H
+                      HT
+                       H  T
+                        H  T
+                         H    T
+                         H       T
+                         H          T
+                         H    T
+                        TH
+             H             T
+                      H     T
+                    H          T
+                  H             T
+                  H              T
+                H                   T
+                 H            T
+               H                 T
+             H                      T
+                      H                T
+          H                             T
+          H                              T
+                   H                        T
+                    H                        T
+                     H                 T
+                      H                   T
+          H                                  T
+          H                                     T
+                   H                               T
+                 H                           T
+                          H                   T
+                           H            T
+                           H               T
+                            H                 T
+                             H                 T
+                             H                    T
+                                      H              T
+                                      H                 T
+                                      H                  T
+                                    H                       T
+                                    H                          T
+                        H                                         T
+                         H                                         T
+                          H                                  T
+                          H                                   T
+                          H                             T
+                          H                              T
+              H                                    T
+               H                             T
+                        H                       T
+            H                                    T
+                     H                     T
+                     H               T
+                     H                  T
+                      H                  T
+                      H                     T
+                       H                     T
+           H                                    T
+            H                                      T
+          H                                         T
+           H                                  T
+            H                                    T
+                     H                     T
+                   H                          T
+                    H                          T
+                  H                      T
+                  H                T
+                           H T
+                                T   H
+                                   T         H
+                                    T         H
+                                  H  T
+                                   H    T
+                                   H       T
+                                    H         T
+                                     H           T
+                                     H              T
+                                     H               T
+                                   H           T
+                                 H                T
+                     H                      T
+                     H                T
+                              H        T
+                                       H  T
+                           H               T
+                            H               T
+                             H                 T
+                                      H         T
+                                       H           T
+                                        H             T
+                                                 H     T
+                                                 H      T
+                                                 H         T
+                                                  H  T
+                                               T   H
+                                                  T         H
+                                                     T               H
+
+Hare wins. Yuch.
+
+TIME ELAPSED = 163 seconds
+
+Press any key to continue . . .

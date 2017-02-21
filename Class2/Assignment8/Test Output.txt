@@ -1,0 +1,232 @@
+// Assignement 8 COMP 2618
+// Exercise 21.11 of the text - the hangman game
+// Author: Voicu Chirtes
+
+Guess the word: XXXXXX
+
+
+Guess a letter: ??????
+?s
+
+ o
+
+Your guesses:
+ S
+
+Guess a letter: ??????
+?a
+
+ o
+
+Your guesses:
+ S A
+
+Guess a letter: ???A??
+?b
+
+ o
+
+Your guesses:
+ S A B
+
+Guess a letter: B??A??
+?B
+'B' was already guessed.  Try another letter
+
+Guess a letter: B??A??
+?I
+
+ o
+
+Your guesses:
+ S A B I
+
+Guess a letter: BI?A??
+?n
+
+ o
+
+Your guesses:
+ S A B I N
+
+Guess a letter: BINA??
+?o
+
+ o
+/
+
+Your guesses:
+ S A B I N O
+
+Guess a letter: BINA??
+?s
+'S' was already guessed.  Try another letter
+
+Guess a letter: BINA??
+?f
+
+ o
+/|
+
+Your guesses:
+ S A B I N O F
+
+Guess a letter: BINA??
+?gg
+
+ o
+/|\
+
+Your guesses:
+ S A B I N O F G
+
+Guess a letter: BINA??
+?'G' was already guessed.  Try another letter
+
+Guess a letter: BINA??
+?h
+
+ o
+/|\
+ |
+
+Your guesses:
+ S A B I N O F G H
+
+Guess a letter: BINA??
+?l
+
+ o
+/|\
+ |
+/
+
+Your guesses:
+ S A B I N O F G H L
+
+Guess a letter: BINA??
+?r
+
+ o
+/|\
+ |
+/
+
+Your guesses:
+ S A B I N O F G H L R
+
+Guess a letter: BINAR?
+?y
+
+ o
+/|\
+ |
+/
+
+Your guesses:
+ S A B I N O F G H L R Y
+
+Word: BINARY
+
+
+Congratulations!!!You guessed my word.
+
+
+Play again ? (y/n) y
+Guess the word: XXXXXXX
+
+
+Guess a letter: ???????
+?q
+
+ o
+
+Your guesses:
+ Q
+
+Guess a letter: ???????
+?w
+
+ o
+/
+
+Your guesses:
+ Q W
+
+Guess a letter: ???????
+?e
+
+ o
+/
+
+Your guesses:
+ Q W E
+
+Guess a letter: ?E?E??E
+?r
+
+ o
+/
+
+Your guesses:
+ Q W E R
+
+Guess a letter: RE?ER?E
+?t
+
+ o
+/|
+
+Your guesses:
+ Q W E R T
+
+Guess a letter: RE?ER?E
+?y
+
+ o
+/|\
+
+Your guesses:
+ Q W E R T Y
+
+Guess a letter: RE?ER?E
+?u
+
+ o
+/|\
+ |
+
+Your guesses:
+ Q W E R T Y U
+
+Guess a letter: RE?ER?E
+?i
+
+ o
+/|\
+ |
+/
+
+Your guesses:
+ Q W E R T Y U I
+
+Guess a letter: RE?ER?E
+?o
+
+ o
+/|\
+ |
+/ \
+
+Your guesses:
+ Q W E R T Y U I O
+
+
+Sorry - you have run out of guesses ;-(
+The correct answer was : REVERSE
+
+...GAME OVER...
+
+
+Play again ? (y/n) n
+Press any key to continue . . .

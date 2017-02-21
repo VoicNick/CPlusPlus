@@ -1,0 +1,40 @@
+// Assignment 3 COMP 2618, Voicu Chirtes
+// Test output
+//
+// Author: Voicu Chirtes
+// Date: May 5, 2015
+
+The current number of Array<int, 5> objects instantiated is: 0
+
+The current number of Array<string, 7> objects instantiated is: 0
+
+Enter 5 integer values:
+6 7 8 9 10
+
+The values in intArray are:
+6 7 8 9 10
+
+Enter 7 one-word string values:
+How are you today my jolly friend!
+
+The values in the stringArray are:
+How are you today my jolly friend!
+
+intArray == intArray2
+
+stringArray == stringArray2
+
+The values in intArray are:
+5 7 8 9 10
+
+The values in the stringArray are:
+How are you today my jolly hello!!!
+
+intArray != intArray2
+
+stringArray != stringArray2
+
+The current number of Array<int, 5> objects instantiated is: 3
+
+The current number of Array<string, 7> objects instantiated is: 2
+Press any key to continue . . .

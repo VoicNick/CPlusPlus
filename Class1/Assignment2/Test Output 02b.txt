@@ -1,0 +1,17 @@
+Test Output Assignment 02b, Voicu Chirtes:
+
+The number of terms to compute is (5 to 13 are valid values): 4
+The number of terms to compute is (5 to 13 are valid values): 14
+The number of terms to compute is (5 to 13 are valid values): a
+The number of terms to compute is (5 to 13 are valid values): -1
+The number of terms to compute is (5 to 13 are valid values): 5
+
+The value of e is 2.70833333333
+
+Press any key to continue . . .
+
+The number of terms to compute is (5 to 13 are valid values): 13
+
+The value of e is 2.71828182829
+
+Press any key to continue . . .

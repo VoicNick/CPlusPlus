@@ -1,0 +1,37 @@
+Test Output for Assignment 02c, Voicu Chirtes:
+
+Input a value for x between 1 and 709: 0
+Input a value for x between 1 and 709: 710
+Input a value for x between 1 and 709: a
+Input a value for x between 1 and 709: -1
+Input a value for x between 1 and 709: 1
+
+e raised to the 1 power is: 2.71828182846
+
+The number of terms computed is 23
+
+Press any key to continue . . .
+
+Input a value for x between 1 and 709: 20
+
+e raised to the 20 power is: 485165195.41
+
+The number of terms computed is 90
+
+Press any key to continue . . .
+
+Input a value for x between 1 and 709: 156
+
+e raised to the 156 power is: 5.62262574608e+067
+
+The number of terms computed is 466
+
+Press any key to continue . . .
+
+Input a value for x between 1 and 709: 709
+
+e raised to the 709 power is: 8.21840746155e+307
+
+The number of terms computed is 1970
+
+Press any key to continue . . .

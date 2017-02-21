@@ -1,0 +1,156 @@
+---------------
+Test Output 1:
+---------------
+Error: Initial balance cannot be negative.
+
+account1 balance: $50
+account2 balance: $25
+
+Enter deposit amount for account1: 10
+
+deposit 10 into account1 balance
+
+account1 balance: $60
+account2 balance: $25
+
+Enter deposit amount for account2: 10
+
+deposit 10 into account2 balance
+
+account1 balance: $60
+account2 balance: $35
+
+Enter withdrawal amount for account1: 20
+
+attempting to subtract 20 from account1 balance
+
+account1 balance: $40
+account2 balance: $35
+
+Enter withdrawal amount for account2: 20
+
+attempting to subtract 20 from account2 balance
+
+account1 balance: $40
+account2 balance: $15
+Press any key to continue . . .
+---------------
+Test Output 2:
+---------------
+Error: Initial balance cannot be negative.
+
+account1 balance: $50
+account2 balance: $25
+
+Enter deposit amount for account1: -10
+
+deposit -10 into account1 balance
+
+Error: Credit amount cannot be negative.
+
+account1 balance: $50
+account2 balance: $25
+
+Enter deposit amount for account2: -20
+
+deposit -20 into account2 balance
+
+Error: Credit amount cannot be negative.
+
+account1 balance: $50
+account2 balance: $25
+
+Enter withdrawal amount for account1: -5
+
+attempting to subtract -5 from account1 balance
+
+Error: Debit amount cannot be negative.
+
+account1 balance: $50
+account2 balance: $25
+
+Enter withdrawal amount for account2: -5
+
+attempting to subtract -5 from account2 balance
+
+Error: Debit amount cannot be negative.
+
+account1 balance: $50
+account2 balance: $25
+Press any key to continue . . .
+---------------
+Test Output 3:
+---------------
+Error: Initial balance cannot be negative.
+
+account1 balance: $50
+account2 balance: $25
+
+Enter deposit amount for account1: 5
+
+deposit 5 into account1 balance
+
+account1 balance: $55
+account2 balance: $25
+
+Enter deposit amount for account2: 5
+
+deposit 5 into account2 balance
+
+account1 balance: $55
+account2 balance: $30
+
+Enter withdrawal amount for account1: 55
+
+attempting to subtract 55 from account1 balance
+
+account1 balance: $0
+account2 balance: $30
+
+Enter withdrawal amount for account2: 31
+
+attempting to subtract 31 from account2 balance
+
+Debit amount exceeded account balance.
+
+account1 balance: $0
+account2 balance: $30
+Press any key to continue . . .
+---------------
+Test Output 4:
+---------------
+Error: Initial balance cannot be negative.
+
+account1 balance: $50
+account2 balance: $25
+
+Enter deposit amount for account1: 7
+
+deposit 7 into account1 balance
+
+account1 balance: $57
+account2 balance: $25
+
+Enter deposit amount for account2: 0
+
+deposit 0 into account2 balance
+
+account1 balance: $57
+account2 balance: $25
+
+Enter withdrawal amount for account1: 60
+
+attempting to subtract 60 from account1 balance
+
+Debit amount exceeded account balance.
+
+account1 balance: $57
+account2 balance: $25
+
+Enter withdrawal amount for account2: 0
+
+attempting to subtract 0 from account2 balance
+
+account1 balance: $57
+account2 balance: $25
+Press any key to continue . . .

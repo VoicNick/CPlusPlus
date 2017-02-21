@@ -1,0 +1,130 @@
+// Assignement 6 COMP 2618
+// Author: Voicu Chirtes
+
+// Sample Output 1 – valid input:
+
+The original format flag for cin is: 513
+The original format flag for cout is: 513
+
+The cin format flags are set to: 1537
+
+Enter 2 Complex numbers in the form "(real_value,imaginary_value)" :
+(-12.444,34.55) (2.0,-44.4444)
+
+The cin format flags are set to: 1537
+
+The cout format flags are set to: 1537
+
+The Complex numbers are:  (-    12.44,+    34.55) and (+     2.00,-    44.44)
+
+The cout format flags are set to: 1537
+
+The cout format flags are set to: 513
+
+The Complex numbers are:  -12.4440 34.5500i and 2.0000 -44.4444i
+
+The cout format flags are set to: 513
+
+
+ Part 1 Completed, On to Part 2
+
+
+The cin format flags are set to: 513
+
+Enter 2 Complex numbers in the form "nnnn.nn nnnn.nni" :
+22.2222 -45.55i
+45.45i
+
+The cin format flags are set to: 513
+
+The cout format flags are set to: 1537
+
+The Complex numbers are:  (+    22.22,-    45.55) and (+     0.00,+    45.45)
+
+The cout format flags are set to: 1537
+
+The cout format flags are set to: 513
+
+The Complex numbers are:  22.2222 -45.5500i and 0.0000 45.4500i
+
+The cout format flags are set to: 513
+
+
+Press any key to continue . . .
+
+
+//Sample Output 2 – second complex # is invalid because ‘,’ is missing:
+
+The original format flag for cin is: 513
+The original format flag for cout is: 513
+
+The cin format flags are set to: 1537
+
+Enter 2 Complex numbers in the form "(real_value,imaginary_value)" :
+(-123.1234, 23.33) (1.1 111.1111)
+
+Exception occured: Invalid value for inputting Complex # using Mode 1
+
+The cin format flags are set to: 1537
+
+
+Press any key to continue . . .
+
+
+//Sample Output 3 - first complex # is invalid because ‘)’ is missing:
+
+The original format flag for cin is: 513
+The original format flag for cout is: 513
+
+The cin format flags are set to: 1537
+
+Enter 2 Complex numbers in the form "(real_value,imaginary_value)" :
+(23.33,-234.5555 (-23.33, 44.1)
+
+Exception occured: Invalid value for inputting Complex # using Mode 1
+
+The cin format flags are set to: 1537
+
+
+Press any key to continue . . .
+
+//Sample Output 4 - first complex # (in second set) is invalid because ‘i’ is missing:
+
+
+The original format flag for cin is: 513
+The original format flag for cout is: 513
+
+The cin format flags are set to: 1537
+
+Enter 2 Complex numbers in the form "(real_value,imaginary_value)" :
+(12.3456, 33.333) (-12.3,-55.5555)
+
+The cin format flags are set to: 1537
+
+The cout format flags are set to: 1537
+
+The Complex numbers are:  (+    12.35,+    33.33) and (-    12.30,-    55.56)
+
+The cout format flags are set to: 1537
+
+The cout format flags are set to: 513
+
+The Complex numbers are:  12.3456 33.3330i and -12.3000 -55.5555i
+
+The cout format flags are set to: 513
+
+
+ Part 1 Completed, On to Part 2
+
+
+The cin format flags are set to: 513
+
+Enter 2 Complex numbers in the form "nnnn.nn nnnn.nni" :
+1234.5555 -44.44 -33.3333i
+
+Exception occured: Invalid value for inputting Complex # using Mode 2
+
+The cin format flags are set to: 513
+
+
+Press any key to continue . . .

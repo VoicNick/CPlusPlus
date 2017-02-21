@@ -1,0 +1,92 @@
+// Assignment 4 COMP 2618, Voicu Chirtes, ex 13.14
+// Test Output:
+
+//Test 1:
+Enter a phone number in the form (123) 456-7890:
+(516) 372-1199
+
+The phone number entered was:  (516) 372-1199
+
+Enter a phone number in the form (123) 456-7890:
+(516) 372-1199
+
+The phone number entered was:  (516) 372-1199
+
+Enter a phone number in the form (123) 456-7890:
+(556) 372-1199
+
+Invalid phone number entered.
+
+Press any key to continue . . .
+
+//Test 2:
+Enter a phone number in the form (123) 456-7890:
+(506)372-1199
+
+Invalid phone number entered.
+
+Press any key to continue . . .
+
+//test 3:
+Enter a phone number in the form (123) 456-7890:
+(506) 372-119
+
+Invalid phone number entered.
+
+Press any key to continue . . .
+
+//test 4:
+Enter a phone number in the form (123) 456-7890:
+(006) 372-1199
+
+Invalid phone number entered.
+
+Press any key to continue . . .
+
+//test 5:
+Enter a phone number in the form (123) 456-7890:
+(106) 372-1199
+
+Invalid phone number entered.
+
+Press any key to continue . . .
+
+//test 6:
+Enter a phone number in the form (123) 456-7890:
+(506) 072-1199
+
+Invalid phone number entered.
+
+Press any key to continue . . .
+
+//test 7:
+Enter a phone number in the form (123) 456-7890:
+(506) 172-1199
+
+Invalid phone number entered.
+
+Press any key to continue . . .
+
+//test 8:
+Enter a phone number in the form (123) 456-7890:
+[506) 372-1199
+
+Invalid phone number entered.
+
+Press any key to continue . . .
+
+//test 9:
+Enter a phone number in the form (123) 456-7890:
+(506] 372-1199
+
+Invalid phone number entered.
+
+Press any key to continue . . .
+
+//test 10:
+Enter a phone number in the form (123) 456-7890:
+(506) 372+1199
+
+Invalid phone number entered.
+
+Press any key to continue . . .

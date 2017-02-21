@@ -1,0 +1,22 @@
+Test Output for Assignment 02a, Voicu Chirtes
+
+Enter a positive integer less than or equal to 20 : -1
+Enter a positive integer less than or equal to 20 : 21
+Enter a positive integer less than or equal to 20 : a
+Enter a positive integer less than or equal to 20 : 0
+
+0! is 1
+
+Press any key to continue . . .
+
+Enter a positive integer less than or equal to 20 : 12
+
+12! is 479001600
+
+Press any key to continue . . .
+
+Enter a positive integer less than or equal to 20 : 20
+
+20! is 2432902008176640000
+
+Press any key to continue . . .

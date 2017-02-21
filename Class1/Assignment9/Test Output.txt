@@ -1,0 +1,57 @@
+// Assignment 9 - Adding two numbers COMP 2617
+// Author: Voicu Chirtes
+// Date: 4/8/2015
+
+
+// This is an example of adding two numbers where MAX_DIGITS is set to 30:
+
+Enter in the first number (max 30 digits):
+12345678901234567890
+
+Enter in the second number (max 30 digits):
+1234567890123456789012345
+
+The result of adding the 2 numbers input is:
+
+           12345678901234567890
++     1234567890123456789012345
+===============================
+      1234580235802358023580235
+
+Press any key to continue . . .
+
+
+// This is an example of adding two numbers with 40 digits
+// where MAX_DIGITS is set to 41 (because the result is 41 digits):
+Enter in the first number (max 41 digits):
+1234567890123456789012345678901234567890
+
+Enter in the second number (max 41 digits):
+9876543210987654321098765432109876543210
+
+The result of adding the 2 numbers input is:
+
+  1234567890123456789012345678901234567890
++ 9876543210987654321098765432109876543210
+==========================================
+ 11111111101111111110111111111011111111100
+
+Press any key to continue . . .
+
+// Testing display of numbers 0:
+Enter in the first number (max 30 digits):
+0
+
+Enter in the second number (max 30 digits):
+000
+
+The result of adding the 2 numbers input is:
+
+                              0
++                             0
+===============================
+                              0
+
+Press any key to continue . . .
+
+
