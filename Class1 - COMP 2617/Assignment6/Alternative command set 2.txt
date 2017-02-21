@@ -1,0 +1,32 @@
+Below is 2nd alternative turtle commands that you can use when testing your solution.  I do not recommend testing with the commands below until you have your solution working with my original commands. I am not supplying an image for the commands below so it will be a surprise when you execute it :)
+
+The commands below were supplied to me by a former student - SW.  If you would like to supply me an interesting alternative command array, I will include it with future iterations of this assignment, as I am now doing with the commands that SW provided me.
+
+// go to start of first letter and put pen down
+std::array< int, 410> cmds = { 5, 6, 4, 5, 11, 2,  
+//row 7
+5, 9,  1, 5, 9,  2, 5, 7,  1, 5, 7,  2, 5, 2,  1, 5, 5,  2, 5, 10,  
+// row 8
+2, 3, 5,1,   3, 5, 11, 1, 5, 5, 2, 5, 2, 1, 5, 6, 2, 5, 1, 1, 5, 7, 2, 5, 1, 1, 5, 7, 2, 5, 1, 1, 5, 8, 2, 5, 1, 1, 4,5,1,
+// row 9
+1,4,5,1,    2, 5, 1,  1, 5, 9, 2,  5, 1, 1, 5, 5, 2, 5, 1, 1, 5, 9, 2, 5, 1, 1, 5, 5, 2, 5, 2, 1, 5, 9, 2, 5, 2, 
+//row 10
+1, 3, 5, 1,  1,3,5,1,   2, 5, 2, 1, 5, 9, 2, 5, 2, 1, 5, 15, 2, 5, 1, 1, 5, 5, 2, 5, 1, 1, 5, 9, 2, 5, 1, 
+// row 11
+1, 4, 5, 1, 1,4,5,1,  2, 5, 1, 1, 5, 8, 2, 5, 1, 1, 5, 6, 2, 5, 1, 1, 5, 15, 2, 5, 2, 1, 5, 9, 2, 5, 2, 
+//row 12
+1, 3, 5, 1,  1,3,5,1,  2,5, 2, 1, 5, 9, 2, 5, 2, 1, 5, 15, 2, 5, 1, 1, 5, 7, 2, 5, 9, 
+//row 13
+1, 4, 5, 1,  1,4,5,1,  2, 5, 1,  1, 5, 8, 2, 5, 1, 1, 5, 6, 2, 5, 1, 1, 5, 15, 2, 5, 2, 1, 5, 9, 2, 5, 2, 
+//row 14
+1, 3, 5, 1, 1,3,5,1,  2, 5, 2, 1, 5, 9, 2, 5, 2, 1, 5, 15, 2, 5, 1, 1, 5, 5, 2, 5, 1, 1, 5, 9, 2, 5, 1, 
+//row 15
+1, 4, 5, 1,  1,4,5,1, 2, 5, 1, 1, 5, 9, 2, 5, 1, 1, 5, 5, 2, 5, 1, 1, 5, 9, 2, 5, 1, 1, 5, 5, 2, 5, 2, 1, 5, 9, 2, 5, 2, 
+//row 16
+1, 3, 5, 1,  1,3,5,1,  2, 5, 2, 1, 5, 9, 2, 5, 2, 1, 5, 6, 2, 5, 1, 1, 5, 7, 2, 5, 1, 1, 5, 7, 2, 5, 1, 1, 5, 8, 2, 5, 1, 
+//row17
+1, 4, 5, 1,  1,4,5,1,  2,  5, 9, 1, 5, 9, 2, 5, 7, 1, 5, 7, 2, 5, 2, 1, 5, 9, 2, 5, 2,
+//Display border
+1, 5, 100, 2, 4, 5, 100, 4, 5, 100, 4, 5, 100, 4, 5, 100, 4, 5, 100,
+// finish off
+1, 6, 9 }; 
